@@ -1,0 +1,35 @@
+.fournisseurs-list {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .fournisseurs-list__title {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .fournisseurs-list__table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 1rem;
+  }
+  
+  .fournisseurs-list__table th,
+  .fournisseurs-list__table td {
+    padding: 0.5rem;
+    text-align: left;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .fournisseurs-list__table th {
+    font-weight: bold;
+  }
+  
+  .fournisseurs-list__table td {
+    vertical-align: top;
+  }
+  
+  .fournisseurs-list__table a.btn {
+    margin-right: 0.5rem;
+  }
+  
